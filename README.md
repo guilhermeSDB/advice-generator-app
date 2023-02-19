@@ -6,7 +6,7 @@ Um site para gerar conselhos para sua vida.
   <img style="border-radius:10%" width="100%" height="100%" src="public/capa.png" alt="exemplo imagem">
 </p>
 
-> Desafio Frontendmentor Conselhos - geardor de conselhos.
+> Desafio Frontendmentor Conselhos - gerador de conselhos.
 
 ### [Ver Preview](https://vue-advice-generator.netlify.app/)
 
